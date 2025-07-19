@@ -1,0 +1,42 @@
+
+---
+
+## 🧭 Roadmap
+
+- [x] Fork Trustless‑Work escrow contract
+- [x] Write new `JobEscrow` with milestone + timeout logic
+- [ ] Build wallet UI with contract interactions
+- [ ] Add testnet pilot program for 100 freelancers
+- [ ] Submit to Stellar Development Foundation Grant Program
+- [ ] Integrate fiat offramps (Cowrie, ClickPesa)
+
+---
+
+## 🤝 Credits
+
+This project was **forked and extended** from the open-source [Trustless-Work Smart Escrow](https://github.com/Tico4Chain-Coders/Trustless-Work).  
+Big thanks to their contributors for laying the groundwork.
+
+---
+
+## 👥 Join the Journey
+
+Follow Phil on [Twitter/X](https://twitter.com/WebCraftPhil)  
+Join the mission. Build for good. Help freelancers worldwide.
+
+[![Follow Phil on Twitter](https://img.shields.io/twitter/follow/WebCraftPhil?style=social)](https://twitter.com/WebCraftPhil)
+
+---
+
+## ❤️ Support This Work
+
+NomadXchange is a bootstrapped public-good project.  
+If you believe in open-source tools for global equity — consider sponsoring:
+
+[![Sponsor Phil on GitHub](https://img.shields.io/badge/Sponsor--on--GitHub-fc3274?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/WebCraftPhil)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
