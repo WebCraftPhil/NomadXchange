@@ -35,6 +35,12 @@ NomadXchange is a humanitarian-focused fintech wallet designed to fix that.
 - 🧠 Prompt-assisted coding with GPT-4o + Claude Code
 
 ---
+## 🙌 Acknowledgements
+
+This project was originally forked from [Trustless Work Smart Escrow](https://github.com/Tico4Chain-Coders/Trustless-Work), an open-source Soroban-based escrow system built by @Trustless-Work.
+
+Their work laid the foundation for NomadXchange and we’re grateful for their contributions to the Stellar dev community.
+
 
 ## 📦 Repo Structure
 
