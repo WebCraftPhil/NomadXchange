@@ -7,7 +7,6 @@
 ![GitHub Stars](https://img.shields.io/github/stars/WebCraftPhil/NomadXchange?style=social)
 [![Sponsor](https://img.shields.io/badge/Sponsor_on-GitHub-fc3274?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/WebCraftPhil)
 [![MIT License](https://img.shields.io/github/license/WebCraftPhil/NomadXchange)](./LICENSE)
-![GitHub followers](https://img.shields.io/github/followers/WebCraftPhil?label=Follow&style=social)
 ![Follow Phil on Twitter](https://img.shields.io/twitter/follow/vtguy65?style=social)
 
 ---
